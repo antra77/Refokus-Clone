@@ -22,6 +22,10 @@ Welcome to the Refokus website clone project! This project aims to replicate the
 
 ![Refokus Website Clone Preview](/public/preview.png)
 
+## Live Website
+
+Explore ShopSphere live: [ShopSphere Live](https://www.shopsphere-demo.com)
+
 ## Getting Started
 
 To run this project locally, follow these steps:
